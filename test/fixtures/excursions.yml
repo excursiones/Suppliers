@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Codigo: 1
+  Tarifa: 1
+  Capacidad: 1
+  Servicios_Incluidos: MyString
+  Pais: MyString
+  Ciudad: MyString
+  supplier: one
+
+two:
+  Codigo: 1
+  Tarifa: 1
+  Capacidad: 1
+  Servicios_Incluidos: MyString
+  Pais: MyString
+  Ciudad: MyString
+  supplier: two

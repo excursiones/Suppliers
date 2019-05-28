@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Nit: 1
+  Razon: MyString
+  Social: MyString
+  Telefono: MyString
+  Correo: MyString
+  Electronico: MyString
+  Ubicacion: MyString
+
+two:
+  Nit: 1
+  Razon: MyString
+  Social: MyString
+  Telefono: MyString
+  Correo: MyString
+  Electronico: MyString
+  Ubicacion: MyString
